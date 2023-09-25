@@ -1,0 +1,7 @@
+1: \" is considered as single character
+2: Escape Sequences
+\n
+\t
+\b
+\"
+\'
